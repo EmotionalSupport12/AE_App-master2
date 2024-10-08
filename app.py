@@ -10,7 +10,7 @@ from Core import data_connection as DataConn
 #--------------------Importing Libraries---------------------
 
 #Page basic configurations
-st.set_page_config(page_title="Agile Emotion App!", page_icon="😉", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Agile Emotion App", page_icon="😉", layout="wide", initial_sidebar_state="expanded")
 
 #-------------------Set up Main Variables--------------------
 
